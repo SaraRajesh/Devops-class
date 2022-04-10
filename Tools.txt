@@ -8,3 +8,5 @@ Jankins
 .net
 Java
 C++
+Python
+cloud
