@@ -3,3 +3,5 @@ Configuratiom
 CI 
 Dockeer
 Ansible
+freestyle
+Jankins
