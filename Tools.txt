@@ -9,4 +9,4 @@ Jankins
 Java
 C++
 Python
-cloud
+AWS cloud
